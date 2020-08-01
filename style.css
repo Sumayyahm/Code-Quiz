@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    background-color: silver;
+    margin-bottom: 55px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: snow;
+}
+
+h4 {
+    text-align: center;
+}
+
+#startbutton {
+   margin-left: 720px;;
+}
